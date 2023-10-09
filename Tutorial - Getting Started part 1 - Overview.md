@@ -1,9 +1,7 @@
 
 # Tutorial Getting Started part 1: Overview
 
-[URL of video](https://youtu.be/cCBgIcBi0vA?si=e6XB6leaye9YW_9C)
-
-[![Tutorial - Getting Started part 1 - Overview](https://i.ytimg.com/vi/cCBgIcBi0vA/maxresdefault.jpg)](https://www.youtube.com/watch?v=cCBgIcBi0vA "Tutorial - Getting Started part 1 - Overview")
+[URL of video: Tutorial - Getting Started part 1 - Overview](https://youtu.be/cCBgIcBi0vA?si=e6XB6leaye9YW_9C)
 
 ## Transcript of the video
 
