@@ -27,7 +27,6 @@ In effect it will represent a common physical model that will allow you to gener
 It also has a lot of functionality that allows you to reuse and leverage a library of canonical objects for your domains so that you can use them consistently across all of your physical data models just so everyone understands. A polyglot data model is an umbrella data model that sits across all of these underlying physical data models, so there's a master data model at the top or multiple Master data models at the top that are driving the underlying physical data models that are specific to a particular Target technology.
 
 <img width="1105" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/1e45f619-6c55-4694-9e9b-855667d786a8">
-<img width="1106" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/1baa230d-8803-4354-a52a-a497950c7300">
 
 I think this is a helpful picture because it shows you how you can have multiple polyglot models: a polylot one data model with the blue rectangles, a polyglot 2 data model with the red circles and a 3rd polyglot data model with the green triangles.
 
