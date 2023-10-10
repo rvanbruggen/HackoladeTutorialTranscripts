@@ -25,3 +25,26 @@ In this repo, you will find transcriptions and articles that are based on the tu
 9. [Export or forward-engineer](https://community.hackolade.com/slides/slide/part-9-export-or-forward-engineer-16?fullscreen=1) module and [corresponding article MISSING]()
 10. [Generate documentation and pictures](https://community.hackolade.com/slides/slide/part-10-generate-documentation-and-pictures-17?fullscreen=1) module and [corresponding article MISSING]()
 
+### [Tutorial 3: Advanced](https://community.hackolade.com/slides/hackolade-studio-tutorial-3-advanced-3)
+
+11. [Create a model for graph databases](https://community.hackolade.com/slides/slide/create-a-model-for-graph-databases-20?fullscreen=1) module and [corresponding article MISSING]()
+12. [Create a REST API model](https://community.hackolade.com/slides/slide/create-a-rest-api-model-22?fullscreen=1) module and [corresponding article MISSING]()
+13. [Leverage a Polyglot data model](https://community.hackolade.com/slides/slide/leverage-a-polyglot-data-model-23?fullscreen=1) module and [corresponding article MISSING]()
+14. [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [corresponding article MISSING]()
+
+### [Tutorial 4: Expert](https://community.hackolade.com/slides/hackolade-studio-tutorial-4-expert-4)
+
+15. [Reusable definitions](https://community.hackolade.com/slides/slide/reusable-definitions-7?fullscreen=1) module and [corresponding article MISSING]()
+16. [User-defined custom properties](https://community.hackolade.com/slides/slide/user-defined-custom-properties-8?fullscreen=1) module and [corresponding article MISSING]()
+17. [Command-Line Interface](https://community.hackolade.com/slides/slide/command-line-interface-21?fullscreen=1) module and [corresponding article MISSING]()
+18. [Pre-populate new entities using snippets](https://community.hackolade.com/slides/slide/pre-populate-new-entities-using-snippets-9?fullscreen=1) module and [corresponding article MISSING]()
+19. [Composite key constraints](https://community.hackolade.com/slides/slide/composite-key-constraints-10?fullscreen=1) module and [corresponding article MISSING]()
+20. [Compare and Merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1) module and [corresponding article MISSING]()
+21. [Denormalization](https://community.hackolade.com/slides/slide/denormalization-28?fullscreen=1) module and [corresponding article MISSING]()
+22. [ER Diagram Views](https://community.hackolade.com/slides/slide/er-diagram-views-29?fullscreen=1) module and [corresponding article MISSING]()
+23. [Generate synthetic mock data](https://community.hackolade.com/slides/slide/generate-synthetic-mock-data-30?fullscreen=1) module and [corresponding article MISSING]()
+24. [Export/Import with Excel template](https://community.hackolade.com/slides/slide/export-import-with-excel-template-31?fullscreen=1) module and [corresponding article MISSING]()
+25. [Infer PKs and FKs](https://community.hackolade.com/slides/slide/infer-pks-and-fks-32?fullscreen=1) module and [corresponding article MISSING]()
+26. [Naming Conventions](https://community.hackolade.com/slides/slide/naming-conventions-33?fullscreen=1) module and [corresponding article MISSING]()
+27. [Verify Data Model](https://community.hackolade.com/slides/slide/verify-data-model-41?fullscreen=1) module and [corresponding article MISSING]()
+28. [Docker-based automation](https://community.hackolade.com/slides/slide/docker-based-automation-57?fullscreen=1) module and [corresponding article MISSING]()
