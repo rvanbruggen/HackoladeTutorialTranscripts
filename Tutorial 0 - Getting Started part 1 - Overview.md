@@ -1,7 +1,7 @@
 
-# Tutorial Getting Started part 1: Overview
+# Tutorial 0 - Getting Started part 1: Overview
 
-[URL of video: Tutorial - Getting Started part 1 - Overview](https://community.hackolade.com/slides/slide/vision-overview-55?fullscreen=1)
+[URL of video: Tutorial 0 - Getting Started part 1 - Overview](https://community.hackolade.com/slides/slide/vision-overview-55?fullscreen=1)
 
 ## Transcript of the video
 

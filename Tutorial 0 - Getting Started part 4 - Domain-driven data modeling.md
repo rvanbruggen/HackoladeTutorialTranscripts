@@ -1,6 +1,6 @@
-# Tutorial Getting Started part 4: Domain-driven data modeling
+# Tutorial 0 - Getting Started part 4: Domain-driven data modeling
 
-[URL of video: Tutorial - Getting Started part 4 - Domain-driven data modeling](https://community.hackolade.com/slides/slide/domain-driven-data-modeling-52?fullscreen=1)
+[URL of video: Tutorial 0 - Getting Started part 4 - Domain-driven data modeling](https://community.hackolade.com/slides/slide/domain-driven-data-modeling-52?fullscreen=1)
 
 ## Transcript of the video
 
