@@ -23,11 +23,14 @@ Please also think about this as how you work with industry data models. Industry
 1. The first principle that we're going to be talking about here is how you should really **focus on the core domain**. You really want to concentrate your efforts for maximum impact and really limit the scope of your data modeling exercise as much as you possibly can. Don't make it too big, don't make it too complicated - really focus on the core.
 <img width="1105" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/ee05d510-2073-4913-8ae6-335d32a9356c">
 
+
 2. The second principle is that in order to be able to focus on the core you actually need to **break down complex problems into smaller ones**. We call this a bounded context. We create these limited domains that you can focus on that you can really solve the one problem at a time. Obviously you still need to be able to keep the bigger picture in mind and make sure that the bigger problem also gets solved, but the way to get there is obviously by tackling this complexity one by one.
 <img width="1108" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/93d02a0f-7641-438b-b519-aa47051587da">
 
+
 3. The next principle that we'll talk about is that really when you talk about data modeling you're talking about applying a **communication tool** that allows people to understand what the data that they are working with actually means and what the context is that they are working in. That's the core function of data modeling and that means that you have to start using a **common vocabulary**, so in your data model, as you use it as a communication tool you really want to focus on making sure that everyone understands and everyone uses, and you promote this common vocabulary.
 <img width="1108" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/c4b62fd8-e53e-420c-945d-a566a30b81d4">
+
 
 4. The next principle that I think we should all learn from, is that it becomes much easier to work with data models as you are able to aggregate related objects together. This is a lesson that we've learned in other fields, specifically the data engineering field, where things like **nosql databases** have sprung up. New types of databases have sprung up that really promote this as well: work with "aggregates", work with related objects that are construed of a number of different other objects so that they represent the business entity that you are working with. Cluster these things together if they belong together.
 <img width="1108" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/749caf77-72ff-4bb5-926f-8ff0bedbdf24">
@@ -37,6 +40,7 @@ Obviously this means that you also want to be breaking up the problem into bound
 5. Another principle that we think is a core part of domain-driven data modeling, is the collaboration aspect of working together between technical staff and subject matter experts to reach a shared understanding.
 <img width="1109" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/52dcbcf4-7a91-47c5-b377-588eeb324146">
 You really don't want to have a conflict situation between the subject matter expert or business user, and the data engineer. No, you want to use the communication tool that data models represent to reach this shared understanding of what the problems are that we're trying to solve.
+
 
 6. Again, as we break down the problem into smaller parts, it makes total sense to take an iterative approach to the development of your data models and your applications, which is a core element of Agile development so that you can really create this solution step by step refine it as you go along. Evolve it as you go along and develop a richer application step by step.
 <img width="1103" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/a56cc224-4c98-4b62-ba86-11c44e80b115">
