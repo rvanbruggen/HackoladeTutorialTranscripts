@@ -48,3 +48,11 @@ In this repo, you will find transcriptions and articles that are based on the tu
 26. [Naming Conventions](https://community.hackolade.com/slides/slide/naming-conventions-33?fullscreen=1) module and [corresponding article MISSING]()
 27. [Verify Data Model](https://community.hackolade.com/slides/slide/verify-data-model-41?fullscreen=1) module and [corresponding article MISSING]()
 28. [Docker-based automation](https://community.hackolade.com/slides/slide/docker-based-automation-57?fullscreen=1) module and [corresponding article MISSING]()
+
+### Tutorial 5: Workgroup collaboration and versioning
+29. [Workgroup Collaboration Overview](https://community.hackolade.com/slides/slide/workgroup-collaboration-overview-34?fullscreen=1) module and [corresponding article MISSING]()
+30. [Workgroup Scenario 1: cosmetic changes](https://community.hackolade.com/slides/slide/workgroup-scenario-1-cosmetic-changes-35?fullscreen=1) module and [corresponding article MISSING]()
+31. [Workgroup Scenario 2: non-conflicting model changes](https://community.hackolade.com/slides/slide/workgroup-scenario-2-non-conflicting-model-changes-36?fullscreen=1) module and [corresponding article MISSING]()
+32. [Workgroup Scenario 3: conflicting model changes](https://community.hackolade.com/slides/slide/workgroup-scenario-3-conflicting-model-changes-37?fullscreen=1) module and [corresponding article MISSING]()
+33. [Workgroup Scenario 4a: branch-based changes](https://community.hackolade.com/slides/slide/workgroup-scenario-4a-branch-based-changes-38?fullscreen=1) module and [corresponding article MISSING]()
+34. [Workgroup Scenario 4b: feature branch changes](https://community.hackolade.com/slides/slide/workgroup-scenario-4b-feature-branch-changes-39?fullscreen=1) module and [corresponding article MISSING]()
