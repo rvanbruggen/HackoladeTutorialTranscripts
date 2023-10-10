@@ -1,4 +1,4 @@
-<img width="1107" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/9ded61b5-9dac-4285-81a3-4809c73a59f4"># Tutorial 0 - Getting Started part 3: Metadata as code
+# Tutorial 0 - Getting Started part 3: Metadata as code
 
 [URL of video: Tutorial 0 - Getting Started part 3 - Metadata as code](https://community.hackolade.com/slides/slide/metadata-as-code-51?fullscreen=1)
 
