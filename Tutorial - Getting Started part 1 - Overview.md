@@ -1,7 +1,7 @@
 
 # Tutorial Getting Started part 1: Overview
 
-[URL of video: Tutorial - Getting Started part 1 - Overview](https://youtu.be/cCBgIcBi0vA?si=e6XB6leaye9YW_9C)
+[URL of video: Tutorial - Getting Started part 1 - Overview](https://community.hackolade.com/slides/slide/vision-overview-55?fullscreen=1)
 
 ## Transcript of the video
 
