@@ -55,6 +55,6 @@ Of course metadata as code is going to co-locate the code and the data models so
 <img width="1108" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/d779da3d-2215-493c-8618-2457cd70bc4c">
 
 This is how you achieve domain driven data modeling. We've actually provided people with a really nice infographic which we will obviously sharing later on and which you may recognize a little bit from our presentation here - so please take a look at that.
-![](https://hackolade.com/img/dddm-infographic-750px.png)
+<img width=50% src="https://hackolade.com/img/dddm-infographic-750px.png">
 
 Also don't forget that we offer a wide variety of reading materials online on our [blog](https://hackolade.com/blog.html), in the [books](https://hackolade.com/books.html) - there's a wide variety of books these days on specific data modeling techniques like MongoDB data modeling, but also for Neo4j, Oracle 23C, Elasticsearch - and there's more coming in the near future. Please follow us on the socials as well and always remember that you can always try Hackolade by [downloading it yourself and giving it a spin](https://hackolade.com/download.html) thank you for paying attention and I hope this was a useful session and I'll wish you a wonderful rest of your day.
