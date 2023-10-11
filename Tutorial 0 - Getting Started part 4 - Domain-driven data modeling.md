@@ -9,8 +9,9 @@ Hello everyone, and welcome to our Hackolade Tutorial!
 In this part of the tutorial we're going to be explaining some of the fundamentals of the Hackolade product set and we're going to do that by explaining some of the main concepts behind it. We've already talked about [polyglot data modeling](https://hackolade.com/polyglot-data-modeling.html) and [metadata as code](https://hackolade.com/metadata-as-code.html) in separate videos, but in this video we're actually going to talk about an overarching concept that we've recently published about which is what we call [domain-driven data modeling](https://hackolade.com/domain-driven-data-modeling.html).
 
 The reason why we've come up with this new concept is that we wanted to explain to people why some of these fundamental concepts you know like polyglot data modeling or metadata as code, why they are so important and why it's so interesting to apply them in a real world context. Specifically we also wanted to make people understand that domain driven data modeling is a solution to a problem that many of us have encountered in complex data modeling exercises: sometimes people try to make these data models too large and too complex, and that makes them counterproductive. They very quickly start looking like a big ball of mud.
-
+<p align="center" width="75%">
 <img width="1107" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/b59aeef7-8ca7-49a4-a42d-3fa533f9bf9e">
+</p>
 
 This ball of mud leads to so many pointless discussions between different stakeholders in your organization that it can really lead to massive project delays and we want to help you solve that. We want to make you understand that there is a different way to do this, that smaller manageable data models are actually the blueprint for modern complex applications.
 
