@@ -3,7 +3,7 @@
 
 [Tutorial 3 - Advanced - Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1)
 
-## Transcript of the video
+## Article based on transcript of the video
 
 In today's episode we'll be talking about how you can use the Hackolade studio for visually designing your Avro schemas.
 
