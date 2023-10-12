@@ -30,19 +30,33 @@ In this repo, you will find transcriptions and articles that are based on the tu
 * Part 1: [Create a model for graph databases](https://community.hackolade.com/slides/slide/create-a-model-for-graph-databases-20?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Createmodelforgraphdatabases.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%201%20-%20Create%20a%20model%20for%20graph%20databases.md)
 * Part 2: [Create a REST API model](https://community.hackolade.com/slides/slide/create-a-rest-api-model-22?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/CreateaRESTAPImodel.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%202%20-%20Create%20a%20REST%20API%20model.md)
 * Part 3: [Leverage a Polyglot data model](https://community.hackolade.com/slides/slide/leverage-a-polyglot-data-model-23?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/LeverageaPolyglotdatamodel.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%203%20-%20Leverage%20a%20polyglot%20data%20model.md)
+
+---
+##NEW!!!
 * Part 4: [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%204%20-%20Create%20a%20model%20for%20Avro%20schema.md)
+---
+
 * Part 5: [Create a model for Oracle 23C Duality Views](https://community.hackolade.com/slides/slide/oracle-23c-duality-views-58?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Oracle23cDualityViews.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%205%20-%20Create%20a%20model%20for%20Oracle%2023C%20Duality%20Views.md)
 
 ### [Tutorial 4: Expert](https://community.hackolade.com/slides/hackolade-studio-tutorial-4-expert-4)
 
 * Part 1: [Reusable definitions](https://community.hackolade.com/slides/slide/reusable-definitions-7?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Addreusabledefinitions.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%201%20-%20Reusable%20definitions.md)
 * Part 2: [User-defined custom properties](https://community.hackolade.com/slides/slide/user-defined-custom-properties-8?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Configurecustomproperties.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%202%20-%20User-defined%20custom%20properties.md)
+
+---
+## TODO!
 * Part 3: [Command-Line Interface](https://community.hackolade.com/slides/slide/command-line-interface-21?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%203%20-%20Command-line%20interface.md)
+--- 
 * Part 4: [Pre-populate new entities using snippets](https://community.hackolade.com/slides/slide/pre-populate-new-entities-using-snippets-9?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Pre-populatenewentitiesusingsnip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%204%20-%20Pre-populate%20new%20entities%20using%20snippets.md)
 * Part 5: [Composite key constraints](https://community.hackolade.com/slides/slide/composite-key-constraints-10?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Definecompositekeyconstraints.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%205%20-%20Composite%20key%20constraints.md)
+
+---
+## TODO!
 * Part 6: [Compare and Merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Compareandmergemodels.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%206%20-%20Compare%20and%20merge.md)
 * Part 7: [Denormalization](https://community.hackolade.com/slides/slide/denormalization-28?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Relationshipsanddenormalization.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%207%20-%20Denormalization.md)
 * Part 8: [ER Diagram Views](https://community.hackolade.com/slides/slide/er-diagram-views-29?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/EntityboxesinERdiagram.html#ER%20Diagram%20Views) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%208%20-%20ER%20Diagram%20Views.md)
+---
+
 * Part 9: [Generate synthetic mock data](https://community.hackolade.com/slides/slide/generate-synthetic-mock-data-30?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Generatemockdatafortesting.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%209%20-%20Generate%20synthetic%20mock%20data.md)
 * Part 10: [Export/Import with Excel template](https://community.hackolade.com/slides/slide/export-import-with-excel-template-31?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Exceltemplate.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%2010%20-%20Export%20Import%20with%20Excel%20template.md)
 * Part 11: [Infer PKs and FKs](https://community.hackolade.com/slides/slide/infer-pks-and-fks-32?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/InferPrimaryKeysandForeignKeyRel.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%2011%20-%20Infer%20PKs%20and%20FKs.md)
