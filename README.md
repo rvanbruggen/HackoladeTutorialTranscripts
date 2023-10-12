@@ -5,7 +5,7 @@ In this repo, you will find transcriptions and articles that are based on the tu
 [Main page](https://github.com/rvanbruggen/HackoladeTutorialTranscripts)
 
 ### [Tutorial 0: Vision and Getting started](https://community.hackolade.com/slides/hackolade-studio-tutorial-0-vision-getting-started-6)
-* [Vision and overview module](https://community.hackolade.com/slides/slide/vision-overview-55?fullscreen=1) and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%20-%20Getting%20Started%20part%201%20-%20Overview.md)
+* [Vision and overview module](https://community.hackolade.com/slides/slide/vision-overview-55?fullscreen=1) and [corresponding article from transcription](./`Tutorial 0 - Getting Started part 1 - Overview.md`)
 * [Polyglot data modeling module](https://community.hackolade.com/slides/slide/polyglot-data-modeling-50?fullscreen=1) and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%200%20-%20Getting%20Started%20part%202%20-%20Polyglot%20data%20modeling.md)
 * [Metadata as code module](https://community.hackolade.com/slides/slide/metadata-as-code-51?fullscreen=1) and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%200%20-%20Getting%20Started%20part%203%20-%20Metadata%20as%20code.md)
 * [Domain driven data modeling module](https://community.hackolade.com/slides/slide/domain-driven-data-modeling-52?fullscreen=1) and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%200%20-%20Getting%20Started%20part%204%20-%20Domain-driven%20data%20modeling.md)
