@@ -1,7 +1,7 @@
 
-# Tutorial 3 - Advanced part 14 - Create a model for Avro schema
+# Tutorial 3 - Advanced - Create a model for Avro schema
 
-[Tutorial 3 - Advanced part 14 - Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1)
+[Tutorial 3 - Advanced - Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1)
 
 ## Transcript of the video
 
