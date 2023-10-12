@@ -32,7 +32,7 @@ In this repo, you will find transcriptions and articles that are based on the tu
 * Part 3: [Leverage a Polyglot data model](https://community.hackolade.com/slides/slide/leverage-a-polyglot-data-model-23?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/LeverageaPolyglotdatamodel.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%203%20-%20Leverage%20a%20polyglot%20data%20model.md)
 
 ---
-##NEW!!!
+## NEW!!!
 * Part 4: [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%204%20-%20Create%20a%20model%20for%20Avro%20schema.md)
 ---
 
