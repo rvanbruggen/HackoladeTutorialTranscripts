@@ -30,10 +30,11 @@ In this repo, you will find transcriptions and articles that are based on the tu
 * [Create a model for graph databases](https://community.hackolade.com/slides/slide/create-a-model-for-graph-databases-20?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Createmodelforgraphdatabases.html) and [UNEDITED transcript](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%2011%20-%20Create%20a%20model%20for%20graph%20databases.md)
 * [Create a REST API model](https://community.hackolade.com/slides/slide/create-a-rest-api-model-22?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/CreateaRESTAPImodel.html) and [UNEDITED transcript](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%2012%20-%20Create%20a%20REST%20API%20model.md)
 * [Leverage a Polyglot data model](https://community.hackolade.com/slides/slide/leverage-a-polyglot-data-model-23?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/LeverageaPolyglotdatamodel.html) and [UNEDITED transcript](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%2013%20-%20Leverage%20a%20polyglot%20data%20model.md)
+* [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [corresponding article](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%2014%20-%20Create%20a%20model%20for%20Avro%20schema.md)
+
 
 ---
 **TO EDIT**
-* [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [corresponding article UNEDITED](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%2014%20-%20Create%20a%20model%20for%20Avro%20schema.md)
 * [Create a model for Oracle 23C Duality Views](https://community.hackolade.com/slides/slide/oracle-23c-duality-views-58?fullscreen=1) module and [corresponding article UNEDITED]()
 ---
 
