@@ -1,7 +1,8 @@
 
-# Tutorial 1 - Beginner part 1 - What is a data model?
+# Tutorial 1 - Beginner - What is a data model?
 
 [URL of video: Tutorial 1 - Beginner part 1 - What is a data model?](https://community.hackolade.com/slides/slide/part-1-what-is-a-data-model-3?fullscreen=1)
+[Original article over here](https://hackolade.com/help/Whatisadatamodel.html)
 
 ## Transcript of the video
 
