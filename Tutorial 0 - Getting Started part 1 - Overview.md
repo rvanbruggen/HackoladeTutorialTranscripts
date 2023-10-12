@@ -3,7 +3,7 @@
 
 [URL of video: Tutorial 0 - Getting Started part 1 - Overview](https://community.hackolade.com/slides/slide/vision-overview-55?fullscreen=1)
 
-## Transcript of the video
+## Article based on transcript of the video
 
 Hello everyone and welcome to the Hackolade tutorial.
 

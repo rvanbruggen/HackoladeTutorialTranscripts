@@ -2,7 +2,7 @@
 
 [URL of video: Tutorial 0 - Getting Started part 2 - Polyglot data modeling](https://community.hackolade.com/slides/slide/polyglot-data-modeling-50?fullscreen=1)
 
-## Transcript of the video
+## Article based on transcript of the video
 
 Hello everyone and welcome to our Hackolade Tutorial! 
 

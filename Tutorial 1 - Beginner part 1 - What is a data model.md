@@ -1,10 +1,10 @@
 
-# Tutorial 1 - Beginner - What is a data model?
+# Tutorial 1 - Beginner part 1 - What is a data model?
 
-[URL of video: Tutorial 1 - Beginner part 1 - What is a data model?](https://community.hackolade.com/slides/slide/part-1-what-is-a-data-model-3?fullscreen=1)
+[URL of video: Tutorial 1 - Beginner part 1 - What is a data model](https://community.hackolade.com/slides/slide/part-1-what-is-a-data-model-3?fullscreen=1)
 [Original article over here](https://hackolade.com/help/Whatisadatamodel.html)
 
-## Transcript of the video
+## Article based on transcript of the video
 
 Hello everyone, my name is Rik and I welcome you to this new video published by Hackolade, which is going to be a series of videos that compose a tutorial to the Hackolade Studio and all the tools that you can use within that. Today is the first part of that tutorial, and we're going to start at the basics. We're going to start at the start, which is you know, what do we mean, what is it when we talk about a **data model**.
 

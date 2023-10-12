@@ -2,7 +2,7 @@
 
 [URL of video: Tutorial 0 - Getting Started part 3 - Metadata as code](https://community.hackolade.com/slides/slide/metadata-as-code-51?fullscreen=1)
 
-## Transcript of the video
+## Article based on transcript of the video
 
 Welcome to our Hackokade Tutorial. In this tutorial we're going to be covering a lot of different topics but before we actually get into the nitty-gritty, we want to help you see the bigger picture to do that we're going to be covering a particular topic today which is [metadata as code](https://hackolade.com/metadata-as-code.html).
 
