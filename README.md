@@ -47,9 +47,10 @@ In this repo, you will find transcriptions and articles that are based on the tu
 * Part 2: [User-defined custom properties](https://community.hackolade.com/slides/slide/user-defined-custom-properties-8?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Configurecustomproperties.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%202%20-%20User-defined%20custom%20properties.md)
 
 ---
-## TODO!
+## NEW!!!
 * Part 3: [Command-Line Interface](https://community.hackolade.com/slides/slide/command-line-interface-21?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%203%20-%20Command-line%20interface.md)
 --- 
+
 * Part 4: [Pre-populate new entities using snippets](https://community.hackolade.com/slides/slide/pre-populate-new-entities-using-snippets-9?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Pre-populatenewentitiesusingsnip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%204%20-%20Pre-populate%20new%20entities%20using%20snippets.md)
 * Part 5: [Composite key constraints](https://community.hackolade.com/slides/slide/composite-key-constraints-10?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Definecompositekeyconstraints.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%205%20-%20Composite%20key%20constraints.md)
 
