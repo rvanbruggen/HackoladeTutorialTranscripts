@@ -120,7 +120,7 @@ I wish you a wonderful day.
 PS: the `CICDscript.sh` file is pasted below as an example
 
 ```
-∑#!/bin/bash
+#!/bin/bash
 clear
 echo "*****************************************"
 echo "* Welcome to the Hackolade CLI example! *"
