@@ -36,7 +36,7 @@ In this repo, you will find transcriptions and articles that are based on the tu
 
 ---
 ## NEW!!!
-* Part 4: [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%204%20-%20Create%20a%20model%20for%20Avro%20schema.md)
+* Part 4: [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [NEW corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%204%20-%20Create%20a%20model%20for%20Avro%20schema.md)
 ---
 
 * Part 5: [Create a model for Oracle 23C Duality Views](https://community.hackolade.com/slides/slide/oracle-23c-duality-views-58?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Oracle23cDualityViews.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%205%20-%20Create%20a%20model%20for%20Oracle%2023C%20Duality%20Views.md)
@@ -48,7 +48,7 @@ In this repo, you will find transcriptions and articles that are based on the tu
 
 ---
 ## NEW!!!
-* Part 3: [Command-Line Interface](https://community.hackolade.com/slides/slide/command-line-interface-21?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%203%20-%20Command-line%20interface.md)
+* Part 3: [Command-Line Interface](https://community.hackolade.com/slides/slide/command-line-interface-21?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html) and [NEW corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%203%20-%20Command-line%20interface.md)
 --- 
 
 * Part 4: [Pre-populate new entities using snippets](https://community.hackolade.com/slides/slide/pre-populate-new-entities-using-snippets-9?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Pre-populatenewentitiesusingsnip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%204%20-%20Pre-populate%20new%20entities%20using%20snippets.md)
