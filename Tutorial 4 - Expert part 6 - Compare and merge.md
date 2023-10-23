@@ -104,7 +104,7 @@ I'm going to uh open up those two models again: V1 on the left hand side, and V2
 
 If I switch to the different merging or matching strategies here it will give me different results. So now it's going to tell me okay you can actually save this new model right in a _merged model_. That model can then be opened:
 
-<img width="1112" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/a39130bb-bc9d-4ac3-bfc9-afb18ca2fda1">
+<img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/d5ecce5a-3fa9-4999-b125-25d81674560d">
 
 You will see that there is a new version of the model and that new version of the model will have both of those properties in the entity: `Score1` and `Score2`. 
 
