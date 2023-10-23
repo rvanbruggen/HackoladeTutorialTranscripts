@@ -3,7 +3,7 @@
 
 [Tutorial 4 - Expert part 6 - Compare and merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1)
 
-## Unedited transcript of the video
+## Article based on transcript of the video
 
 Hello everyone and welcome to today's Hackolade Tutorial.
 
