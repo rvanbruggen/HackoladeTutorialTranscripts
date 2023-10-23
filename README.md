@@ -33,29 +33,16 @@ In this repo, you will find transcriptions and articles that are based on the tu
 * Part 1: [Create a model for graph databases](https://community.hackolade.com/slides/slide/create-a-model-for-graph-databases-20?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Createmodelforgraphdatabases.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%201%20-%20Create%20a%20model%20for%20graph%20databases.md)
 * Part 2: [Create a REST API model](https://community.hackolade.com/slides/slide/create-a-rest-api-model-22?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/CreateaRESTAPImodel.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%202%20-%20Create%20a%20REST%20API%20model.md)
 * Part 3: [Leverage a Polyglot data model](https://community.hackolade.com/slides/slide/leverage-a-polyglot-data-model-23?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/LeverageaPolyglotdatamodel.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%203%20-%20Leverage%20a%20polyglot%20data%20model.md)
-
----
-## NEW!!!
 * Part 4: [Create a model for Avro schema](https://community.hackolade.com/slides/slide/create-a-model-for-avro-schema-56?fullscreen=1) module and [NEW corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%204%20-%20Create%20a%20model%20for%20Avro%20schema.md)
----
-
 * Part 5: [Create a model for Oracle 23C Duality Views](https://community.hackolade.com/slides/slide/oracle-23c-duality-views-58?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Oracle23cDualityViews.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%203%20-%20Advanced%20part%205%20-%20Create%20a%20model%20for%20Oracle%2023C%20Duality%20Views.md)
 
 ### [Tutorial 4: Expert](https://community.hackolade.com/slides/hackolade-studio-tutorial-4-expert-4)
 
 * Part 1: [Reusable definitions](https://community.hackolade.com/slides/slide/reusable-definitions-7?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Addreusabledefinitions.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%201%20-%20Reusable%20definitions.md)
 * Part 2: [User-defined custom properties](https://community.hackolade.com/slides/slide/user-defined-custom-properties-8?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Configurecustomproperties.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%202%20-%20User-defined%20custom%20properties.md)
-
----
-## NEW!!!
 * Part 3: [Command-Line Interface](https://community.hackolade.com/slides/slide/command-line-interface-21?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html) and [NEW corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%203%20-%20Command-line%20interface.md)
---- 
-
 * Part 4: [Pre-populate new entities using snippets](https://community.hackolade.com/slides/slide/pre-populate-new-entities-using-snippets-9?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Pre-populatenewentitiesusingsnip.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%204%20-%20Pre-populate%20new%20entities%20using%20snippets.md)
 * Part 5: [Composite key constraints](https://community.hackolade.com/slides/slide/composite-key-constraints-10?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Definecompositekeyconstraints.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%205%20-%20Composite%20key%20constraints.md)
-
----
-## NEW!!!
 * Part 6: [Compare and Merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Compareandmergemodels.html) and [NEW corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%206%20-%20Compare%20and%20merge.md)
 
 ---
