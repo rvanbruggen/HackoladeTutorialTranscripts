@@ -56,7 +56,7 @@ In this repo, you will find transcriptions and articles that are based on the tu
 
 ---
 ## NEW!!!
-* Part 6: [Compare and Merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Compareandmergemodels.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%206%20-%20Compare%20and%20merge.md)
+* Part 6: [Compare and Merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Compareandmergemodels.html) and [NEW corresponding article from transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%206%20-%20Compare%20and%20merge.md)
 
 ---
 ## TODO!
