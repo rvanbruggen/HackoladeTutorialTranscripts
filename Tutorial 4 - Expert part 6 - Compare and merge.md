@@ -47,10 +47,65 @@ That "Alter script" is basically the schema instructions that you will fire at o
 
 <img width="1108" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/1e352554-80e5-47d7-82e8-417d906e401d">
 
-So let's take a look at that we'll switch to the Accolade Studio here just to illustrate the comparison functionality.
+So let's take a look at that we'll switch to the Hackolade Studio here just to illustrate the comparison functionality.
+
+## Comparing models
 
 I have a couple of models here right so I'll open them from my downloads folder here. This is a Mongodb model that I have over here and in that mongodb model I have made one change: I've added a property over here, so there's a `Score1` property that has been added. This is V1 of the model. 
 
 <img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/21cc135f-6d37-406b-bcba-66a2c1fbc2f8">
 
-In V2 of the model you will see that there's another property that has been added here score two right and so what I'd like to do now is I'd like to compare those two versions of the model so I'm going to go into my downloads folder and I will be opening the V1 on the left hand side and V2 on the right hand side I can switch this easily using the Double Arrow over here now I should quickly add here that these two models always have to be of the same type you have to compare a mongodb model with a mongodb model you cannot compare a mongodb model with a postgres model for example right and then it was going to tell me okay what is the difference between here you can see the synchronized scrolling at work score one is on the left inside score 2 is on the right hand side but it's positioned at the same level because I'm matching on the internal IDs what I've done here is I've copied the model and I've modified it but if I would match it on the business name then you will see that it does a different type of comparison it's basically saying well this one's been removed and the other one has been added right so this is uh how you can have different variations of that comparison and you obviously want to know exactly how that is done when I push the generate Delta model I'll just open that up here for you because I've already prepared that over here you will see what the Delta is right so this is the Delta model which is basically a formalization of the differences between the two versions right where this one has been added and this one has been deleted right the script however the mongodb script doesn't give me like these alteration commands or anything like that because mongodb doesn't allow for that which is why I'd like to show you a different version of this compare person right so I'll go back into my downloads folder and I'll show you the postgres version right so there's a postgres version here that has a new property over there and then there's another postgres version over here that has a different property oh yeah over there in the film table over there right so if I now generate the compare those two right I'll get something very very similar but you will if I come if I then open the Delta model right between those two postgres models you will see that it actually gives me an altar script in the autoscript you will have the addition of the column and the dropping of the column right but the dropping of the column because that's a you know potentially dangerous operation is commented out right so with that I hope you have a good example of what the model comparison is like and we'll switch back to our presentation here to go into how you can merge models together right so how are you going to do that well so very similarly we're going to take two models right and we're going to be comparing those two right but there will be a third new pane that you will see in a minute here that is going to give me a merge proposal right and I can select and unselect those proposals and if there's any conflicts then the merge proposal is going to use the right hand model value right and deletions are also going to be retained unless unchecked right so the merging is done in this three pane uh view here so so now I'm going to uh open up those two models again right so V1 on the left hand side and V2 on the right hand side and the comparison screen will show up but at the top here I can toggle and say well why don't we go into a merge uh scenario here and then you know again if I switch to the different merging uh or matching strategies here it will give me different results right so and now it's going to tell me okay you can actually save this new model right in a merge model right and that model can then be opened up and you will see that there is a um a new version of the model that I can show you in a second here and that new version of the model will have both of those properties um in the entity over here score one and score two as you can tell great so with that I'm going to wrap up this tutorial and show you a couple of reading materials obviously these are always interesting and important but I would highly recommend that you take a look at these and with that I'm going to wrap up this tutorial and wish you a very good rest of your day thank you very much
+In V2 of the model you will see that there's another property that has been added here: `Score2`. What I'd like to do now is I'd like to compare those two versions of the model so
+* I'm going to go into my downloads folder, and
+* I will be opening the V1 on the left hand side, and
+* V2 on the right hand side
+* I can switch this easily using the Double Arrow
+_Now I should quickly add here that these two models always have to be of the same **type**. You have to compare a Mongodb model with a Mongodb model. You cannot compare a Mongodb model with a PostgreSQL model, for example.
+_
+<img width="1109" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/84ebd3cc-b689-4f6d-a064-5a80078fe5f1">
+
+Next it is going to tell me what is the difference between the two models. You can see the synchronized scrolling at work: `Score1` is on the left hand side - and  `Score2` is on the right hand side. It's positioned at the same level because I'm matching on the internal IDs.
+
+<img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/929ec337-b981-40fb-9286-496294a7fbf3">
+
+What I've done here is I've copied the model and I've modified it. But if I would match it on the _business name_ then you will see that it does a different type of comparison. It's basically saying: this one's been removed and the other one has been added. This is how you can have different variations of that comparison. You obviously want to know exactly how that is done when I push the `Generate Delta model` button.  I'll just open that up here for you because I've already prepared that over here.
+
+<img width="1111" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/9830af0a-66d1-48f1-9536-92a0762fbfaa">
+
+You will see what the Delta is.This is the Delta model - basically a formalization of the differences between the two versions, where this one has been added and this one has been deleted. The script however, the Mongodb script, doesn't give me like these "alteration" commands or anything like that, because Mongodb doesn't allow for that. 
+
+<img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/7fc2e007-8307-421e-ae39-511ae372e053">
+
+This is why I'd like to show you a different version of this comparison. I'll show you the PostgreSQL version: right so there's a PostgreSQL version here that has a new property over there, and then there's another postgres version over here that has a different property over there in the film table. So if I now generate the comparison of those two,  I'll get something very very similar but you will if I come if I then open the Delta model of the differences between those two PostgreSQL models, you will see that it actually gives me an _alter script_.
+
+<img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/8ee3079f-38a1-43ba-a6ea-fdcdb9863e78">
+
+In the _Alter script_ you will have 
+* the addition of the column, and
+* the dropping of the column. The dropping of the column, because that's a potentially dangerous operation, is **commented out**. 
+
+With that I hope you have a good example of what the model comparison is like and we'll switch back to our presentation here to go into how you can merge models together.
+
+## Merging models
+
+How are you going to do that? Very similarly to the comparison functionality, we're going to take two model,s and we're going to be comparing those two.
+
+<img width="1109" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/c7f952c1-8031-4afd-a044-e6080a19212c">
+
+There will be a **third new pane** that you will see:
+
+<img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/2f03598b-4989-453d-9b6b-3b4bae8d3e14">
+
+That pane is going to give me a **merge proposal** and I can select and unselect those proposals. If there's any conflicts then the merge proposal is going to use the _right hand model value_. Deletions are also going to be retained unless unchecked. The merging is done in this three pane view.
+
+I'm going to uh open up those two models again: V1 on the left hand side, and V2 on the right hand side. The comparison screen will show up, but at the top here I can toggle and say well why don't we go into a _Merge_ scenario.
+
+<img width="1110" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/8966e9d3-fefa-499e-a10f-b401140f6c0a">
+
+If I switch to the different merging or matching strategies here it will give me different results. So now it's going to tell me okay you can actually save this new model right in a _merged model_. That model can then be opened:
+
+<img width="1112" alt="image" src="https://github.com/rvanbruggen/HackoladeTutorialTranscripts/assets/2995654/a39130bb-bc9d-4ac3-bfc9-afb18ca2fda1">
+
+You will see that there is a new version of the model and that new version of the model will have both of those properties in the entity: `Score1` and `Score2`. 
+
+Great so with that I'm going to wrap up this tutorial and show you a couple of reading materials obviously these are always interesting and important but I would highly recommend that you take a look at. I wish you a very good rest of your day. Thank you very much.
