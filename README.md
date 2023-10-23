@@ -55,8 +55,11 @@ In this repo, you will find transcriptions and articles that are based on the tu
 * Part 5: [Composite key constraints](https://community.hackolade.com/slides/slide/composite-key-constraints-10?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Definecompositekeyconstraints.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%205%20-%20Composite%20key%20constraints.md)
 
 ---
-## TODO!
+## NEW!!!
 * Part 6: [Compare and Merge](https://community.hackolade.com/slides/slide/compare-and-merge-27?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Compareandmergemodels.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%206%20-%20Compare%20and%20merge.md)
+
+---
+## TODO!
 * Part 7: [Denormalization](https://community.hackolade.com/slides/slide/denormalization-28?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/Relationshipsanddenormalization.html) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%207%20-%20Denormalization.md)
 * Part 8: [ER Diagram Views](https://community.hackolade.com/slides/slide/er-diagram-views-29?fullscreen=1) module, [original corresponding article](https://hackolade.com/help/EntityboxesinERdiagram.html#ER%20Diagram%20Views) and [UNEDITED transcription](https://github.com/rvanbruggen/HackoladeTutorialTranscripts/blob/main/Tutorial%204%20-%20Expert%20part%208%20-%20ER%20Diagram%20Views.md)
 ---
